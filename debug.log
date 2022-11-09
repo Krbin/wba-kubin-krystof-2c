@@ -1,0 +1,5 @@
+[1109/135909.601:ERROR:registration_protocol_win.cc(107)] CreateFile: Systém nemùže nalézt uvedený soubor. (0x2)
+[1109/140019.803:ERROR:registration_protocol_win.cc(107)] CreateFile: Systém nemùže nalézt uvedený soubor. (0x2)
+[1109/140117.348:ERROR:registration_protocol_win.cc(107)] CreateFile: Systém nemùže nalézt uvedený soubor. (0x2)
+[1109/143212.266:ERROR:registration_protocol_win.cc(107)] CreateFile: Systém nemùže nalézt uvedený soubor. (0x2)
+[1109/152041.420:ERROR:registration_protocol_win.cc(107)] CreateFile: Systém nemùže nalézt uvedený soubor. (0x2)
