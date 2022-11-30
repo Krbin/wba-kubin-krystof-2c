@@ -74,6 +74,7 @@ Barva text v oranžovém pozadí: #752400
 }
 .hero-text > p {
   width: 85%;
+  margin-left: 10px;
   color: #752400;
 }
 
