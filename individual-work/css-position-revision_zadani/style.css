@@ -12,6 +12,7 @@ Barva text v oranžovém pozadí: #752400
   flex-direction: row;
   height: 4rem;
   position: fixed;
+  top: 0;
   background-color: white;
   width: 100vw;
 }
@@ -35,7 +36,7 @@ Barva text v oranžovém pozadí: #752400
 }
 
 .headline-1 {
-  padding-top: 10rem;
+  margin: 10rem;
   text-align: center;
   font-size: 3rem;
 }
@@ -59,7 +60,8 @@ Barva text v oranžovém pozadí: #752400
   position: relative;
 }
 .hero-img > img {
-  height: 100%;
+/*  height: 100%; */
+  width: 50px;
   z-index: 2;
   position: relative;
   /* box-shadow: -20px -20px 0px 0px rgba(232, 129, 33, 1); */
