@@ -60,8 +60,7 @@ Barva text v oranžovém pozadí: #752400
   position: relative;
 }
 .hero-img > img {
-/*  height: 100%; */
-  width: 50px;
+ height: 100%;
   z-index: 2;
   position: relative;
   /* box-shadow: -20px -20px 0px 0px rgba(232, 129, 33, 1); */
