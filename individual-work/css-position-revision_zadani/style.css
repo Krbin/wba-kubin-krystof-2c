@@ -15,6 +15,7 @@ Barva text v oranžovém pozadí: #752400
   top: 0;
   background-color: white;
   width: 100vw;
+  z-index: 3;
 }
 
 .header-logo {
@@ -39,7 +40,6 @@ Barva text v oranžovém pozadí: #752400
   margin: 15% 0 0 0;
   text-align: center;
   font-size: 3rem;
-  
 }
 
 .hero-section {
@@ -58,33 +58,32 @@ Barva text v oranžovém pozadí: #752400
 }
 
 .hero-img {
-  height: 80%;
-  margin-left: 10%;
+  height: 95%;
+  margin-left: 5%;
   position: relative;
 }
 .hero-img > img {
- height: 85%;
- width: 85%;
- 
+  height: 95%;
+  width: 95%;
   z-index: 2;
   position: relative;
-  /* box-shadow: -20px -20px 0px 0px rgba(232, 129, 33, 1); */
+  /* box-shadow: 20px 20px 0px 0px rgb(158, 84, 14); */
 }
 .img-placeholder {
   position: absolute;
-  top: -7%;
+  top: -5%;
   left: -3%;
-  height: 85%;
-  width: 85%;
+  height: 95%;
+  width: 95%;
   background-color: rgba(232, 129, 33, 1);
 }
 .hero-text > p {
   width: 85%;
   margin-left: 10px;
   color: #752400;
- }
+}
 
-.text { 
+.text {
   margin-top: 8%;
   align-content: center;
 }
@@ -94,7 +93,6 @@ Barva text v oranžovém pozadí: #752400
   width: 50%;
   line-height: 20px;
   font-size: 14px;
-  
 }
 
 .text-wrapper > p {
