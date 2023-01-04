@@ -1,17 +1,14 @@
-body {
-  padding-top: 5%;
-  background-color: lightgray;
-  border-left: 10rem;
-  border-right: 10rem;
-  border-color: white;
-  border-style: solid;
-}
-
 h1 {
   text-align: center;
 }
 .hint {
   text-align: center;
+}
+
+main {
+  padding-top: 5%;
+  background-color: lightgray;
+  margin: 0% 10% 0 10%;
 }
 
 .grid-container {
@@ -20,8 +17,7 @@ h1 {
   grid-auto-rows: 150px;
   gap: 20px;
   text-align: center;
-  margin: 2% 10% 0 10%;
-  margin-top: 40px;
+  padding-top: 40px;
   padding-bottom: 7%;
 }
 .grid-item {
